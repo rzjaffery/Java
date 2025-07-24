@@ -1,0 +1,4 @@
+Student ID: 1, Name: Rayyan, Age: 22, Address: khi, Batch: 21, Semester: 8, Degree: CS
+Student ID: 2, Name: Ali, Age: 20, Address: lhr, Batch: 21, Semester: 5, Degree: EE
+Student ID: 3, Name: Ahmed, Age: 22, Address: Germany, Batch: 23, Semester: 4, Degree: Biology
+Student ID: 4, Name: Sana, Age: 19, Address: Karachi, Batch: 22, Semester: 4, Degree: EE

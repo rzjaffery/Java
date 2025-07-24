@@ -1,0 +1,21 @@
+1) What is the value of 7 × 8?
+2) Solve for x: 2x + 5 = 15
+3) What is the square root of 144?
+4) Simplify: (3 + 4) × 2
+5) What is 25% of 80?
+6) If a triangle has angles 30° and 60°, what is the third angle?
+7) Solve: 9² - 4²
+8) What is the area of a rectangle with length 10 cm and width 5 cm?
+9) If x = 3 and y = 4, what is the value of x² + y²?
+10) What is the perimeter of a square with side length 6 cm?
+11) Solve for x: x/3 = 9
+12) A car travels 60 km in 1.5 hours. What is its average speed?
+13) What is the next number in the sequence: 2, 4, 8, 16, ___?
+14) Factor: x² - 9
+15) What is the volume of a cube with side 4 cm?
+16) What is the value of π (pi) to two decimal places?
+17) Convert 3/4 to a percentage.
+18) What is the HCF of 12 and 18?
+19) What is the result of (5 × 4) + (6 ÷ 2)?
+20) A book is 1.5 cm thick. How many books can you stack in a 30 cm shelf?
+21) What is trignometric functions?

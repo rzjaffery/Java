@@ -1,0 +1,3 @@
+Teacher_Model ID: 1, Name: RAZA ALI, Age: 35, Address: Karachi, Field of Study: Mathematics
+Teacher_Model ID: 2, Name: Sana Butt, Age: 29, Address: Karachi, Field of Study: English
+Teacher_Model ID: 3, Name: Ashar Hashmi, Age: 44, Address: Lahore, Field of Study: Chemistry

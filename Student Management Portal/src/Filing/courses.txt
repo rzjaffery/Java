@@ -1,0 +1,52 @@
+=== Courses List ===
+
+Department: CS
+  - CS3001: Operating Systems
+  - CS4002: Compiler Construction
+  - CS3002: Software Engineering
+  - CS2001: Data Structures
+  - CS4001: Artificial Intelligence
+  - CS1002: Discrete Structures
+  - CS2003: Object Oriented Programming
+  - CS1001: Programming Fundamentals
+  - CS3003: Database Systems
+  - CS2004: Computer Architecture
+
+Department: EE
+  - EE1002: Circuit Analysis
+  - EE1001: Basic Electrical Engineering
+  - EE2002: Signals and Systems
+  - EE3003: Embedded Systems
+  - EE3001: Microcontrollers
+  - EE4003: VLSI Design
+  - EE2001: Digital Logic Design
+  - EE3002: Control Systems
+  - EE4002: Communication Systems
+  - EE4001: Power Electronics
+
+Department: AI
+  - AI2001: Machine Learning
+  - AI3002: Computer Vision
+  - AI4004: Reinforcement Learning
+  - AI3001: Neural Networks
+  - AI4001: Natural Language Processing
+  - AI1001: Introduction to AI
+  - AI4002: AI Ethics and Safety
+  - AI1002: Mathematics for AI
+  - AI2002: Data Mining
+  - AI4003: Advanced Deep Learning
+
+Department: FT
+  - FT4001: Food Safety and Regulations
+  - FT2002: Nutrition and Dietetics
+  - FT3003: Food Quality Control
+  - FT1002: Food Chemistry
+  - FT3001: Food Processing
+  - FT4003: Functional Foods
+  - FT1001: Introduction to Food Science
+  - FT2001: Food Microbiology
+  - FT3002: Food Engineering
+  - FT4002: Food Packaging
+
+=====================
+
